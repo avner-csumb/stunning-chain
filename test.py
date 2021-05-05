@@ -1,1 +1,3 @@
+print('cool!')
+
 print('hello')
